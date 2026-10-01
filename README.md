@@ -91,3 +91,10 @@
 사용자 선호도 반영
     ↓
 맞춤형 시간표 추천
+
+---
+
+## 🔗 참고 자료
+
+- [GitHub](https://github.com/)
+- [Python 공식 홈페이지](https://www.python.org/)
